@@ -1,0 +1,26 @@
+.radio_title {
+    margin-bottom: 8px;
+    font-weight: bold;
+}
+
+.radio_hint {
+    font-size: 14px;
+    color: black;
+    margin-bottom: 5px;
+    font-style: italic;
+    margin-left: 10px;
+}
+
+.radio-container {
+    display: flex;
+    align-items: center; 
+}
+
+.radio-container div {
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+  
+.radio-container input[type="radio"] {
+    margin-right: 5px;
+}

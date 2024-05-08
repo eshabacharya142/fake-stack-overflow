@@ -1,0 +1,22 @@
+/* All the CSS related to answers Page*/
+.comment {
+    display: flex;
+    flex-direction: row;
+    border-bottom: #dadada 1px solid;
+    padding: 1%;
+}
+
+.commentText {
+    width: 75%;
+    font-size: small;
+}
+
+.commentAuthor {
+    margin-left: 5%;
+    font-size: small;
+}
+
+.comment_author {
+    color: blue;
+    font-size: small;
+}
